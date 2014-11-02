@@ -1,4 +1,17 @@
 - 
+  id: 4
+  name: "José"
+  surname: "Román"
+  company: "Designit"
+  title: "Diseñador gráfico, tipografista"
+  bio: 'Diseñador gaditano, especializado en interfaz de usuario, tipografía y Iron Maiden. Domina las artes del código y el diseño de forma fluida, lo cual le da poder para afrontar proyectos de una forma muy fresca y original'
+  thumbnailUrl: joseroman.jpeg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/JoseRGB"}
+    - {name: "github", link: "https://github.com/JoseRGB"}
+    - {name: "site", link: "http://www.bynewroman.com/"}
+- 
   id: 7
   name: "JuanRa"
   surname: "Martín"
@@ -46,16 +59,3 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/adrianmg"}
     - {name: "site", link: "http://adrianmato.com/"}
-- 
-  id: 4
-  name: "José"
-  surname: "Román"
-  company: "Designit"
-  title: "Diseñador gráfico, tipografista"
-  bio: 'Diseñador gaditano, especializado en interfaz de usuario, tipografía y Iron Maiden. Domina las artes del código y el diseño de forma fluida, lo cual le da poder para afrontar proyectos de una forma muy fresca y original'
-  thumbnailUrl: joseroman.jpeg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/JoseRGB"}
-    - {name: "github", link: "https://github.com/JoseRGB"}
-    - {name: "site", link: "http://www.bynewroman.com/"}
