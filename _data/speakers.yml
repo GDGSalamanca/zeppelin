@@ -1,67 +1,62 @@
 - 
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  name: "Adrián"
+  surname: "Mato Gondelle"
+  company: "Kendo Studio"
+  title: "Interaction Design & Product"
+  bio: "Hi guys! I’m a twenty-something years’s old guy from Santiago de Compostela actually living in Madrid, Spain. I love design. I currently run Kendo Studio. We design simple & delightful products for startups and big companies. I worked as Head of Product Design at Fever defining the whole product. I also was in charge to manage the design and engineering team. I worked for mainly 2 years as Senior UI Designer at Tuenti. I founded these projects: Erasmusu, Ontuts and yensdesign."
+  thumbnailUrl: adrianmato.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "twitter", link: "https://twitter.com/adrianmg"}
+    - {name: "site", link: "http://adrianmato.com/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "José"
+  surname: "Román"
+  company: "Designit"
+  title: "Diseñador gráfico, tipografista"
+  bio: 'Diseñador gaditano, especializado en interfaz de usuario, tipografía y Iron Maiden. Domina las artes del código y el diseño de forma fluida, lo cual le da poder para afrontar proyectos de una forma muy fresca y original'
+  thumbnailUrl: joseroman.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "twitter", link: "https://twitter.com/JoseRGB"}
+    - {name: "github", link: "https://github.com/JoseRGB"}
+    - {name: "site", link: "http://www.bynewroman.com/"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Alejandro"
+  surname: "Becerro (Muokkaa)"
+  company: "4º Milenio. Mediaset TV"
+  title: "Diseñador gráfico, Especialista 3D"
+  bio: 'Hola, me llamo Alex y soy diseñador gráfico. Vivo en Madrid, trabajo en post-producción y grafismo y me apasiona la tipografía, el 3D y la ilustración.'
+  thumbnailUrl: alexmuokkaa.png 
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "twitter", link: "https://twitter.com/AlexMuokkaa"}
+    - {name: "site", link: "http://www.muokkaa.com/"}
 - 
+  
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Roberto"
+  surname: "Therón"
+  company: "Universidad de Salamanca"
+  title: "Profesor"
+  bio: 'Roberto Therón received his doctoral degree from the Robotics Group at the Univerisidad de Salamanca, where his research focused on combining fields such as Computer Science, Artificial Intelligence, Statistics, Graphic Design, and Data Visualization as a means for understanding complex data. After completing his thesis, he spent time developing tools for the visualization of multidimensional data such as genetic or paeloclimatic data. Currently is the Group manager of the <a href="http://vis.usal.es/~visusal/grupo/">Visual Analytics and Information Visualization Research Group (VisUsal)</a>, devoted to the development of advanced tools that help users in understanding complex datasets coming from a variety of fields... In addition to his academic work, he has been developing for more than twenty years an intense activity in movie-making. He is the author of several short films (awarded at numerous flim festivals), among them "Desilencio" (2001, screenwriter and director), <a href="http://www.imdb.com/title/tt0774603/">Interruptus</a> (2003, co-writer), "Guerreros del Témpano" (2005, co-writer) or <a href="http://www.imdb.com/title/tt1130836/">Impávido</a> (2007, co-writer). In 2012, his co-written full feature film <a href="http://www.impavido.info/">Impávido</a> will be released in theaters.'
+  thumbnailUrl: robertotheron.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "twitter", link: "http://twitter.com/robertotheron"}
+    - {name: "site", link: "http://vis.usal.es/~visusal/grupo/"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "JuanRa"
+  surname: "Martín"
+  company: "Universidad Pontificia de Salamanca"
+  title: "Profesor de diseño"
+  bio: "Periodista de formación y profesor de Diseño en la Facultad de Comunicación de la Universidad Pontificia de Salamanca. Entre el diseño de identidad y el editorial. Atento a los nuevos medios"
+  thumbnailUrl: juanramartin.jpeg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/juanRa_Martin"}
+    - {name: "site", link: "http://designonscreens.com/"}
