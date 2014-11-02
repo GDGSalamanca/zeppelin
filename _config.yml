@@ -41,7 +41,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/organizers/", text: "Organizadores"}
+ - {permalink: "/team/", text: "Organizadores"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -248,7 +248,7 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
