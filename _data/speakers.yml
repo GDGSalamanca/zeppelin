@@ -1,4 +1,16 @@
 - 
+  id: 3
+  name: "Adrián"
+  surname: "Mato Gondelle"
+  company: "Kendo Studio"
+  title: "Interaction Design & Product"
+  bio: "Hi guys! I’m a twenty-something years’s old guy from Santiago de Compostela actually living in Madrid, Spain. I love design. I currently run Kendo Studio. We design simple & delightful products for startups and big companies. I worked as Head of Product Design at Fever defining the whole product. I also was in charge to manage the design and engineering team. I worked for mainly 2 years as Senior UI Designer at Tuenti. I founded these projects: Erasmusu, Ontuts and yensdesign."
+  thumbnailUrl: adrianmato.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/adrianmg"}
+    - {name: "site", link: "http://adrianmato.com/"}
+- 
   id: 4
   name: "José"
   surname: "Román"
@@ -12,17 +24,17 @@
     - {name: "github", link: "https://github.com/JoseRGB"}
     - {name: "site", link: "http://www.bynewroman.com/"}
 - 
-  id: 7
-  name: "JuanRa"
-  surname: "Martín"
-  company: "Universidad Pontificia de Salamanca"
-  title: "Profesor de diseño"
-  bio: "Periodista de formación y profesor de Diseño en la Facultad de Comunicación de la Universidad Pontificia de Salamanca. Entre el diseño de identidad y el editorial. Atento a los nuevos medios"
-  thumbnailUrl: juanramartin.jpeg
+  id: 5
+  name: "Alejandro"
+  surname: "Becerro (Muokkaa)"
+  company: "4º Milenio. Mediaset TV"
+  title: "Diseñador gráfico, Especialista 3D"
+  bio: 'Hola, me llamo Alex y soy diseñador gráfico. Vivo en Madrid, trabajo en post-producción y grafismo y me apasiona la tipografía, el 3D y la ilustración.'
+  thumbnailUrl: alexmuokkaa.jpeg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/juanRa_Martin"}
-    - {name: "site", link: "http://designonscreens.com/"}
+    - {name: "twitter", link: "https://twitter.com/AlexMuokkaa"}
+    - {name: "site", link: "http://www.muokkaa.com/"}
 -  
   id: 6
   name: "Roberto"
@@ -36,26 +48,14 @@
     - {name: "twitter", link: "http://twitter.com/robertotheron"}
     - {name: "site", link: "http://vis.usal.es/~visusal/grupo/"}
 - 
-  id: 5
-  name: "Alejandro"
-  surname: "Becerro (Muokkaa)"
-  company: "4º Milenio. Mediaset TV"
-  title: "Diseñador gráfico, Especialista 3D"
-  bio: 'Hola, me llamo Alex y soy diseñador gráfico. Vivo en Madrid, trabajo en post-producción y grafismo y me apasiona la tipografía, el 3D y la ilustración.'
-  thumbnailUrl: alexmuokkaa.jpeg
+  id: 7
+  name: "JuanRa"
+  surname: "Martín"
+  company: "Universidad Pontificia de Salamanca"
+  title: "Profesor de diseño"
+  bio: "Periodista de formación y profesor de Diseño en la Facultad de Comunicación de la Universidad Pontificia de Salamanca. Entre el diseño de identidad y el editorial. Atento a los nuevos medios"
+  thumbnailUrl: juanramartin.jpeg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/AlexMuokkaa"}
-    - {name: "site", link: "http://www.muokkaa.com/"}
-- 
-  id: 3
-  name: "Adrián"
-  surname: "Mato Gondelle"
-  company: "Kendo Studio"
-  title: "Interaction Design & Product"
-  bio: "Hi guys! I’m a twenty-something years’s old guy from Santiago de Compostela actually living in Madrid, Spain. I love design. I currently run Kendo Studio. We design simple & delightful products for startups and big companies. I worked as Head of Product Design at Fever defining the whole product. I also was in charge to manage the design and engineering team. I worked for mainly 2 years as Senior UI Designer at Tuenti. I founded these projects: Erasmusu, Ontuts and yensdesign."
-  thumbnailUrl: adrianmato.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/adrianmg"}
-    - {name: "site", link: "http://adrianmato.com/"}
+    - {name: "twitter", link: "https://twitter.com/juanRa_Martin"}
+    - {name: "site", link: "http://designonscreens.com/"}
