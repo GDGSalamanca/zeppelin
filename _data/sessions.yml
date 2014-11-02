@@ -9,6 +9,12 @@
   place: "Hall de la Facultad"
   service: true
 -
+  id: 309
+  title: "Apertura"
+  description: "Presentación de los ponentes y la dinámica del evento por los organizadores"
+  subtype: presentation
+  service: true
+-
   id: 001
   title: "Diseño en los medios"
   description: "Descripción de la charla Diseño en los medios"
