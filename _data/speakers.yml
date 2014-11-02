@@ -1,17 +1,4 @@
 - 
-  
-  id: 6
-  name: "Roberto"
-  surname: "Therón"
-  company: "Universidad de Salamanca"
-  title: "Profesor"
-  bio: 'Roberto Therón received his doctoral degree from the Robotics Group at the Univerisidad de Salamanca, where his research focused on combining fields such as Computer Science, Artificial Intelligence, Statistics, Graphic Design, and Data Visualization as a means for understanding complex data. After completing his thesis, he spent time developing tools for the visualization of multidimensional data such as genetic or paeloclimatic data. Currently is the Group manager of the <a href="http://vis.usal.es/~visusal/grupo/">Visual Analytics and Information Visualization Research Group (VisUsal)</a>, devoted to the development of advanced tools that help users in understanding complex datasets coming from a variety of fields... In addition to his academic work, he has been developing for more than twenty years an intense activity in movie-making. He is the author of several short films (awarded at numerous flim festivals), among them "Desilencio" (2001, screenwriter and director), <a href="http://www.imdb.com/title/tt0774603/">Interruptus</a> (2003, co-writer), "Guerreros del Témpano" (2005, co-writer) or <a href="http://www.imdb.com/title/tt1130836/">Impávido</a> (2007, co-writer). In 2012, his co-written full feature film <a href="http://www.impavido.info/">Impávido</a> will be released in theaters.'
-  thumbnailUrl: robertotheron.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "http://twitter.com/robertotheron"}
-    - {name: "site", link: "http://vis.usal.es/~visusal/grupo/"}
-- 
   id: 7
   name: "JuanRa"
   surname: "Martín"
@@ -23,6 +10,18 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/juanRa_Martin"}
     - {name: "site", link: "http://designonscreens.com/"}
+-  
+  id: 6
+  name: "Roberto"
+  surname: "Therón"
+  company: "Universidad de Salamanca"
+  title: "Profesor"
+  bio: 'Roberto Therón received his doctoral degree from the Robotics Group at the Univerisidad de Salamanca, where his research focused on combining fields such as Computer Science, Artificial Intelligence, Statistics, Graphic Design, and Data Visualization as a means for understanding complex data. After completing his thesis, he spent time developing tools for the visualization of multidimensional data such as genetic or paeloclimatic data. Currently is the Group manager of the <a href="http://vis.usal.es/~visusal/grupo/">Visual Analytics and Information Visualization Research Group (VisUsal)</a>, devoted to the development of advanced tools that help users in understanding complex datasets coming from a variety of fields... In addition to his academic work, he has been developing for more than twenty years an intense activity in movie-making. He is the author of several short films (awarded at numerous flim festivals), among them "Desilencio" (2001, screenwriter and director), <a href="http://www.imdb.com/title/tt0774603/">Interruptus</a> (2003, co-writer), "Guerreros del Témpano" (2005, co-writer) or <a href="http://www.imdb.com/title/tt1130836/">Impávido</a> (2007, co-writer). In 2012, his co-written full feature film <a href="http://www.impavido.info/">Impávido</a> will be released in theaters.'
+  thumbnailUrl: robertotheron.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/robertotheron"}
+    - {name: "site", link: "http://vis.usal.es/~visusal/grupo/"}
 - 
   id: 5
   name: "Alejandro"
@@ -36,6 +35,18 @@
     - {name: "twitter", link: "https://twitter.com/AlexMuokkaa"}
     - {name: "site", link: "http://www.muokkaa.com/"}
 - 
+  id: 3
+  name: "Adrián"
+  surname: "Mato Gondelle"
+  company: "Kendo Studio"
+  title: "Interaction Design & Product"
+  bio: "Hi guys! I’m a twenty-something years’s old guy from Santiago de Compostela actually living in Madrid, Spain. I love design. I currently run Kendo Studio. We design simple & delightful products for startups and big companies. I worked as Head of Product Design at Fever defining the whole product. I also was in charge to manage the design and engineering team. I worked for mainly 2 years as Senior UI Designer at Tuenti. I founded these projects: Erasmusu, Ontuts and yensdesign."
+  thumbnailUrl: adrianmato.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/adrianmg"}
+    - {name: "site", link: "http://adrianmato.com/"}
+- 
   id: 4
   name: "José"
   surname: "Román"
@@ -48,15 +59,3 @@
     - {name: "twitter", link: "https://twitter.com/JoseRGB"}
     - {name: "github", link: "https://github.com/JoseRGB"}
     - {name: "site", link: "http://www.bynewroman.com/"}
-- 
-  id: 3
-  name: "Adrián"
-  surname: "Mato Gondelle"
-  company: "Kendo Studio"
-  title: "Interaction Design & Product"
-  bio: "Hi guys! I’m a twenty-something years’s old guy from Santiago de Compostela actually living in Madrid, Spain. I love design. I currently run Kendo Studio. We design simple & delightful products for startups and big companies. I worked as Head of Product Design at Fever defining the whole product. I also was in charge to manage the design and engineering team. I worked for mainly 2 years as Senior UI Designer at Tuenti. I founded these projects: Erasmusu, Ontuts and yensdesign."
-  thumbnailUrl: adrianmato.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/adrianmg"}
-    - {name: "site", link: "http://adrianmato.com/"}
