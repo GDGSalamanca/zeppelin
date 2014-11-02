@@ -13,34 +13,45 @@
   title: "Apertura"
   description: "Presentación de los ponentes y la dinámica del evento por los organizadores"
   subtype: presentation
-  service: true
+  language: ES
+  complexity: media
 -
   id: 001
   title: "Diseño en los medios"
   description: "Descripción de la charla Diseño en los medios"
   subtype: presentation
   speakers: [5]
+  language: ES
+  complexity: media
 -
   id: 002
   title: "Tipografías en una App"
   description: "Descripción de la charla Tipografías en una App"
   subtype: presentation
   speakers: [4]
+  language: ES
+  complexity: media
 -
   id: 003
   title: "UX: Que no te pillen en bragas"
   description: "Descripción de la charla UX: Que no te pillen en bragas"
   subtype: presentation
   speakers: [6]
+  language: ES
+  complexity: media
 -
   id: 004
   title: "Diseño de producto"
   description: "Descripción de la charla Diseño de producto"
   subtype: presentation
   speakers: [3]
+  language: ES
+  complexity: media
 -
   id: 005
   title: "Diseño en pantallas"
   description: "Descripción de la charla Diseño en pantallas"
   subtype: presentation
   speakers: [7]
+  language: ES
+  complexity: media
