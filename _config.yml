@@ -45,9 +45,9 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Regístrate"}
+ - {link: "/#tickets", text: "Regístrate"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Regístrate"}
+ - {link: "/#tickets", text: "Regístrate"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -56,7 +56,7 @@ eventDate: "29 Noviembre 2014"
 typeoutTextValues: '"", "Salamanca"'
 typeoutFallback: "Salamanca"
 heroButtons:
- - {link: "/agenda/", text: "Agenda"}
+ - {link: "/schedule/", text: "Agenda"}
  - {permalink: "/#tickets", text: "Regístrate"}
 
 # About Block
