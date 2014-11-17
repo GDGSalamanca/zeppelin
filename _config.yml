@@ -110,14 +110,14 @@ mapMobileCenterCoordinates: "40.9634385, -5.6692121"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "¿Qué dice la gente?"
+tweetsFeedTitle: "Coméntalo"
 twitterHashTag: "designtechSAL14"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
 organizersTitle: "Organizadores"
 partnersTitle: "Patrocinadores"
-partnersC4sponsorsButton: "¿Quieres ser patrocinador?"
+#partnersC4sponsorsButton: "¿Quieres ser patrocinador?"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
