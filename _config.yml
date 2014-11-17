@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "Design&Tech Salamanca 2014"
 email: "info@gdgsalamanca.com"
 description: "Design&Tech Salamanca es el evento de difusión del diseño y la tecnología en Salamanca"
-baseurl: "/"
+baseurl: "http://design2014.gdgsalamanca.com/"
 url: "http://design2014.gdgsalamanca.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
