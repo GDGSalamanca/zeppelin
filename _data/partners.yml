@@ -1,4 +1,4 @@
 - 
   group: ""
   elements: 
-    - {name: "Universidad de Salamanca", description: "Universidad de Salamanca", link: "https://usal.es", imageUrl: "google.svg", width: "120px"}
+    - {name: "Universidad de Salamanca", description: "Universidad de Salamanca", link: "https://usal.es", imageUrl: "usal.png", width: "120px"}
