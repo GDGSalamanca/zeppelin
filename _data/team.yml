@@ -3,7 +3,7 @@
   name: "GDG"
   surname: "Salamanca"
   title: ""
-  thumbnailUrl: gdg-salamanca.com
+  thumbnailUrl: gdg-salamanca.png
   team: true
   ribbon: 
     - {abbr: "", title: "Google Developer Group"}
@@ -27,7 +27,7 @@
   name: "Charrosfera"
   surname: ""
   title: ""
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: charrosfera.jpg
   team: true
   ribbon: 
     - {abbr: "", title: "Charrosfera"}
