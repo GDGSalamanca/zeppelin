@@ -11,8 +11,8 @@ description: "Design&Tech Salamanca es el evento de difusión del diseño y la t
 baseurl: "http://design2014.gdgsalamanca.com"
 url: "http://design2014.gdgsalamanca.com"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: "UA-56142323-2"
+googleAnalyticsSiteUrl: "design2014.gdgsalamanca.com"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -117,7 +117,7 @@ twitterHashTag: "designtechSAL14"
 # Partners Block
 organizersTitle: "Organizadores"
 partnersTitle: "Patrocinadores"
-#partnersC4sponsorsButton: "¿Quieres ser patrocinador?"
+partnersC4sponsorsButton: "¿Quieres ser patrocinador?"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
