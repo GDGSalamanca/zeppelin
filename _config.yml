@@ -32,7 +32,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "mailto:info@gdgsalamanca.com"
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -51,9 +51,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Design&Tech <typeout> 2014"
+heroTitle: "Design&Tech<typeout> 2014"
 eventDate: "29 Noviembre 2014"
-typeoutTextValues: '"", "Salamanca"'
+typeoutTextValues: '"", " Salamanca"'
 typeoutFallback: "Salamanca"
 heroButtons:
  - {link: "/schedule/", text: "Agenda"}
@@ -112,7 +112,7 @@ mapMobileCenterCoordinates: "40.9634385, -5.6692121"
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "¿Qué dice la gente?"
 twitterHashTag: "designtechSAL14"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
 organizersTitle: "Organizadores"
@@ -135,7 +135,7 @@ ticketsOffers:
   priceCurrency: "EUROS"
   ticketsNumber: "150"
  # ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://goo.gl/forms/2MKg1glG7A"
   buyButtonText: "Regístrate"
   ticketContentList: ["¡Ven al evento!"]
   validFrom: "2014-10-29T10:00"
