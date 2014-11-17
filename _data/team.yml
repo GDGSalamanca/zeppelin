@@ -1,7 +1,7 @@
 - 
   id: 0
-  name: "Google Developers Group Salamanca"
-  surname: ""
+  name: "GDG"
+  surname: "Salamanca"
   title: ""
   thumbnailUrl: gdg-salamanca.com
   team: true
@@ -13,8 +13,8 @@
     - {name: "site", link: "http://gdgsalamanca.com/"}
 - 
   id: 1
-  name: "Betabeers Salamanca"
-  surname: ""
+  name: "Betabeers"
+  surname: "Salamanca"
   title: ""
   thumbnailUrl: betabeers-sal.jpg
   team: true
