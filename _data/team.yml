@@ -3,7 +3,7 @@
   name: "GDG"
   surname: "Salamanca"
   title: ""
-  thumbnailUrl: gdg-salamanca.jpg
+  thumbnailUrl: GDG-Logo.jpg
   team: true
   ribbon: 
     - {abbr: "", title: "Google Developer Group"}
