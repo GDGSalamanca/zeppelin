@@ -38,7 +38,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Organizadores"}
@@ -75,7 +75,7 @@ statisticBlock:
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Últimas noticias"
+#latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -191,9 +191,9 @@ footerBlocks:
 #   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Últimas noticias"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+#blogTitle: "Últimas noticias"
+#blogCommentsEnabled: true
+#discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: true
