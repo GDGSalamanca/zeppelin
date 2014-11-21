@@ -1,15 +1,15 @@
 - 
   id: 3
-  name: "Adrián"
-  surname: "Mato Gondelle"
-  company: "Kendo Studio"
+  name: ""
+  surname: "Por confirmar"
+  company: ""
   title: "Interaction Design & Product"
-  bio: "Hi guys! I’m a twenty-something years’s old guy from Santiago de Compostela actually living in Madrid, Spain. I love design. I currently run Kendo Studio. We design simple & delightful products for startups and big companies. I worked as Head of Product Design at Fever defining the whole product. I also was in charge to manage the design and engineering team. I worked for mainly 2 years as Senior UI Designer at Tuenti. I founded these projects: Erasmusu, Ontuts and yensdesign."
-  thumbnailUrl: adrianmato.jpeg
+  bio: ""
+  thumbnailUrl: GDG-logo.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/adrianmg"}
-    - {name: "site", link: "http://adrianmato.com/"}
+    - {name: "twitter", link: "https://twitter.com/gdgsalamanca"}
+    - {name: "site", link: "http://gdgsalamanca.com/"}
 - 
   id: 4
   name: "José"
@@ -27,7 +27,7 @@
   id: 5
   name: "Alejandro"
   surname: "Becerro (Muokkaa)"
-  company: "4º Milenio. Mediaset TV"
+  company: "4º Milenio (TV)"
   title: "Diseñador gráfico, Especialista 3D"
   bio: 'Hola, me llamo Alex y soy diseñador gráfico. Vivo en Madrid, trabajo en post-producción y grafismo y me apasiona la tipografía, el 3D y la ilustración.'
   thumbnailUrl: alexmuokkaa.jpeg
