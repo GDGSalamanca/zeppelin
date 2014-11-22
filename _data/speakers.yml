@@ -1,20 +1,20 @@
 - 
   id: 3
-  name: ""
-  surname: "Por confirmar"
-  company: ""
+  name: "Danny"
+  surname: "Saltaren"
+  company: "Kendo Studio"
   title: "Interaction Design & Product"
-  bio: ""
-  thumbnailUrl: GDG-Logo.jpg
+  bio: "Designer & CoFounder at @kendostudio. Former Head of design @feverapp, Lead designer @samyroad. @vostokstudio programme alumnus"
+  thumbnailUrl: DannySaltaren.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/gdgsalamanca"}
-    - {name: "site", link: "http://gdgsalamanca.com/"}
+    - {name: "twitter", link: "https://twitter.com/dsaltaren"}
+    - {name: "site", link: "http://kendostudio.com/"}
 - 
   id: 4
   name: "José"
   surname: "Román"
-  company: "Designit"
+  company: "The Big House"
   title: "Diseñador gráfico, tipografista"
   bio: 'Diseñador gaditano, especializado en interfaz de usuario, tipografía y Iron Maiden. Domina las artes del código y el diseño de forma fluida, lo cual le da poder para afrontar proyectos de una forma muy fresca y original'
   thumbnailUrl: joseroman.jpeg
@@ -23,6 +23,7 @@
     - {name: "twitter", link: "https://twitter.com/JoseRGB"}
     - {name: "github", link: "https://github.com/JoseRGB"}
     - {name: "site", link: "http://www.bynewroman.com/"}
+    - {name: "site", link: "http://www.thebighouse.com/"}
 - 
   id: 5
   name: "Alejandro"
