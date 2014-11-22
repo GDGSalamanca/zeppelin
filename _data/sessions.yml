@@ -25,8 +25,8 @@
   complexity: "Media"
 -
   id: 002
-  title: "Tipografías en una App"
-  description: "Descripción de la charla Tipografías en una App"
+  title: "La tipografía, la medida de todo"
+  description: "La decisión más importante en cualquier proyecto es la tipografía, no sólo por los aspectos propios de la comunicación sino también por que es una unidad básica de medida a la hora de construir un interface multidispositivo"
   subtype: presentation
   speakers: [4]
   language: es
