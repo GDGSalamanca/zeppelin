@@ -18,7 +18,7 @@
 -
   id: 001
   title: "Diseño en los medios"
-  description: "Descripción de la charla Diseño en los medios"
+  description: ""
   subtype: presentation
   speakers: [5]
   language: es
@@ -34,7 +34,7 @@
 -
   id: 003
   title: "UX: Que no te pillen en bragas"
-  description: "Descripción de la charla UX: Que no te pillen en bragas"
+  description: ""
   subtype: presentation
   speakers: [6]
   language: es
@@ -42,7 +42,7 @@
 -
   id: 004
   title: "Diseño de producto"
-  description: "Descripción de la charla Diseño de producto"
+  description: ""
   subtype: presentation
   speakers: [3]
   language: es

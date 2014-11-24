@@ -40,7 +40,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Agenda"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Organizadores"}
  - {permalink: "/logistics/", text: "Logística/¿Cómo llegar?"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
@@ -71,7 +71,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "50", specialCharacter: "+", info: "asistentes", detail: "de cualquier lugar"}
  - {count: "4", specialCharacter: "+", info: "horas", detail: "hablando sobre diseño/tecnología y haciendo networking"}
- - {count: "5", specialCharacter: "", info: "speakers", detail: "tanto de Salamanca como de otras ciudades"}
+ - {count: "5", specialCharacter: "", info: "ponentes", detail: "tanto de Salamanca como de otras ciudades"}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
@@ -80,7 +80,7 @@ statisticBlock:
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 5
-rockstarSpeakersTitle: "Speakers"
+rockstarSpeakersTitle: "Ponentes"
 rockstarSpeakersButtonText: "Más información"
 
 # Location Block
@@ -172,14 +172,13 @@ socialLinks:
  - {link: "https://plus.google.com/+GDGSalamanca", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGSalamanca", icon: "twitter"}
  - {link: "https://facebook.com/GDGSalamanca", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
    - {link: "http://gdgsalamanca.com", text: "GDG Salamanca"}
    - {link: "http://betabeers.com", text: "Betabeers Salamanca"}
-   - {link: "http://charrosfera.com", text: "Charrosfera"} 
+   - {link: "http://charrosfera.com", text: "Charrosfera"}
    - {link: "http://usal.es", text: "Universidad de Salamanca"}
  -
   title: "Contacto"
@@ -221,7 +220,7 @@ directionDetailsCards:
  - {title: "Aeropuerto", information: 'Salamanca tiene aeropuerto propio, aunque no dispone de muchos vuelos semanales. En cualquier caso puedes llegar fácilmente desde el aeropuerto de Valladolid o Madrid'}
  - {title: "Transporte público", information: 'El transporte público más habitual en Salamanca es el autobús, aunque todo está muy cerca y puedes ir caminando a cualquier punto de la ciudad'}
  - {title: "Hoteles", information: 'Salamanca tiene muchos hoteles y hostales disponibles, busca el que mejor te venga en las web que te proponemos más abajo.'}
-directionDetailsWideCards: 
+directionDetailsWideCards:
  -
   title: "Preguntas"
   subCards:
@@ -230,7 +229,7 @@ directionDetailsWideCards:
     links:
      - {link: "http://www.tripadvisor.es/Hotels-g187493-Salamanca_Province_of_Salamanca_Castile_and_Leon-Hotels.html", text: "Hoteles en Salamanca - Tripadvisor"}
      - {link: "http://www.booking.com/searchresults.html?aid=800210&si=ai,ci,co,di,la,re&ss=hoteles%20salamanca", text: "Hoteles en Salamanca - Booking.com"}
-   - 
+   -
     title: "De turismo por Salamanca"
     links:
      - {link: "http://www.touristeye.es/Salamanca-p-2182", text: "Planifica tu viaje con TouristEye"}
@@ -244,7 +243,7 @@ directionDetailsWideCards:
      - {link: "http://www.aena.es/csee/Satellite/Aeropuerto-Valladolid/es/", text: "Aeropuerto de Valladolid"}
      - {link: "http://www.aeropuertomadrid-barajas.com/", text: "Aeropuerto de Madrid Barajas"}
      - {link: "http://teemconference.eu/2014/location/getting-to-salamanca/", text: "Cómo llegar a Salamanca (ENG)"}
-     
+
 
 # Hackathon
 hackathonTitle: "Hackathon"
