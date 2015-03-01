@@ -1,65 +1,61 @@
+-
+  id: 1
+  name: "Cristina"
+  surname: "Folgueral Gutiérrez"
+  company: "Obture CODE"
+  title: "Directora de Producción"
+  bio: "Desarrolladora iOS y Android. Enganchada a la programación, no es suficiente que las cosas funcionen, deben estar bien hechas por dentro"
+  thumbnailUrl: cristinafolgueral.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/lady_vanilla"}
+    - {name: "site", link: "http://obturecode.com"}
+-
+  id: 2
+  name: "Andrés Leonardo"
+  surname: "Martínez Ortíz"
+  company: "Google"
+  title: "Developer Program Manager"
+  bio: "Computer Engineer working on Developer Program. ACM, IEEE & Computer Society member. The opinions stated here are my own, not necessarily those of my company"
+  thumbnailUrl: almo.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/davilagrau"}
+    - {name: "github", link: "https://github.com/almo"}
 - 
   id: 3
-  name: "Danny"
-  surname: "Saltaren"
-  company: "Kendo Studio"
-  title: "Interaction Design & Product"
-  bio: "Designer & CoFounder at @kendostudio. Former Head of design @feverapp, Lead designer @samyroad. @vostokstudio programme alumnus"
-  thumbnailUrl: DannySaltaren.jpg
+  name: "Saul"
+  surname: "Díaz González"
+  company: "Fever Inc."
+  title: "Lead Android Engineer"
+  bio: "Developer without a cause. Free Software enthusiast. Journalist at @androtalk. Admin of @AndroidStartup."
+  thumbnailUrl: sauldiaz.png
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/dsaltaren"}
-    - {name: "site", link: "http://kendostudio.com/"}
-- 
+    - {name: "twitter", link: "https://twitter.com/sefford"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sefford"}
+-
   id: 4
-  name: "José"
-  surname: "Román"
-  company: "The Big House"
-  title: "Diseñador gráfico, tipografista"
-  bio: 'Diseñador gaditano, especializado en interfaz de usuario, tipografía y Iron Maiden. Domina las artes del código y el diseño de forma fluida, lo cual le da poder para afrontar proyectos de una forma muy fresca y original'
-  thumbnailUrl: joseroman.jpeg
+  name: "Jorge"
+  surname: "Barroso"
+  company: "Karumi"
+  title: "Cofounder & Android Expert"
+  bio: "Android Developer en @gokarumi , sexador de pollos, cagado de un Olivo en Manchita provincia de Madrid. Suya es la gran frase: Camarero otro tintito"
+  thumbnailUrl: jorgebarroso.jpeg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/JoseRGB"}
-    - {name: "github", link: "https://github.com/JoseRGB"}
-    - {name: "site", link: "http://www.bynewroman.com/"}
-    - {name: "site", link: "http://www.thebighouse.io/"}
-- 
-  id: 5
-  name: "Alejandro"
-  surname: "López Becerro (Muokkaa)"
-  company: "Muokkaa Studio. Cuarto Milenio (Cuatro TV)."
-  title: "Diseñador gráfico"
-  bio: 'Alejandro López Becerro es un diseñador gráfico salmantino afincado en Madrid donde trabaja como postproductor y grafista para Cuarto Milenio. Apasionado del 3D, la ilustración y la tipografía, está siempre en busca de nuevos proyectos en los que poder colaborar como válvula de escape de la rutina diaria. A lo largo de su carrera profesional ha desarrollado proyectos para diversas productoras de tv así como para estudios de diferentes partes de España.'
-  thumbnailUrl: alexmuokkaa.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/AlexMuokkaa"}
-    - {name: "site", link: "http://www.muokkaa.com/"}
+    - {name: "twitter", link: "https://twitter.com/flipper83"}
+    - {name: "site", link: "http://karumi.com"}
 -  
-  id: 6
-  name: "Roberto"
-  surname: "Therón"
-  company: "Universidad de Salamanca"
-  title: "Profesor"
-  bio: 'Roberto Therón received his doctoral degree from the Robotics Group at the Univerisidad de Salamanca, where his research focused on combining fields such as Computer Science, Artificial Intelligence, Statistics, Graphic Design, and Data Visualization as a means for understanding complex data. After completing his thesis, he spent time developing tools for the visualization of multidimensional data such as genetic or paeloclimatic data. Currently is the Group manager of the <a href="http://vis.usal.es/~visusal/grupo/">Visual Analytics and Information Visualization Research Group (VisUsal)</a>, devoted to the development of advanced tools that help users in understanding complex datasets coming from a variety of fields... In addition to his academic work, he has been developing for more than twenty years an intense activity in movie-making. He is the author of several short films (awarded at numerous flim festivals), among them "Desilencio" (2001, screenwriter and director), <a href="http://www.imdb.com/title/tt0774603/">Interruptus</a> (2003, co-writer), "Guerreros del Témpano" (2005, co-writer) or <a href="http://www.imdb.com/title/tt1130836/">Impávido</a> (2007, co-writer). In 2012, his co-written full feature film <a href="http://www.impavido.info/">Impávido</a> will be released in theaters.'
-  thumbnailUrl: robertotheron.jpg
+  id: 5
+  name: "Cristian"
+  surname: "Panadero"
+  company: "Selltag"
+  title: "Android Developer"
+  bio: "Android developer, clean code lover. Working at @Selltag and @BakingCode"
+  thumbnailUrl: cristianpanaedera.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "http://twitter.com/robertotheron"}
-    - {name: "site", link: "http://vis.usal.es/~visusal/grupo/"}
-- 
-  id: 7
-  name: "JuanRa"
-  surname: "Martín"
-  company: "Universidad Pontificia de Salamanca"
-  title: "Profesor"
-  bio: "Juan Ramón Martín es director del Máster Universitario en Diseño Gráfico y de Interface para nuevos dispositivos (@designonscreens).
-Es profesor de la Facultad de Comunicación de la Universidad Pontificia de Salamanca desde 1994. 
-Ha trabajado en múltiples proyectos como diseñador freelance en los ámbitos del diseño de identidad y editorial.
-Sueña con pantallas. "
-  thumbnailUrl: juanramartin.jpeg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/juanRa_Martin"}
-    - {name: "site", link: "http://designonscreens.com/"}
+    - {name: "twitter", link: "http://twitter.com/PaNaVTEC"}
+    - {name: "github", link: "https://github.com/PaNaVTEC"}
+    - {name: "site", link: "http://panavtec.me"}
