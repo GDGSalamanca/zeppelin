@@ -177,7 +177,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://gdgsalamanca.com", text: "GDG Salamanca"}
-   - {link: "http://techandladies.com", text: "Tech&Ladies"}
+   - {link: "http://techandladies.com", text: "Tech&amp;Ladies"}
    - {link: "http://betabeers.com", text: "Betabeers Salamanca"}
    - {link: "http://charrosfera.com", text: "Charrosfera"}
    - {link: "http://usal.es", text: "Universidad de Salamanca"}
