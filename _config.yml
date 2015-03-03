@@ -5,14 +5,14 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Design&Tech Salamanca 2014"
+title: "Android Day Salamanca 2015"
 email: "info@gdgsalamanca.com"
-description: "Design&Tech Salamanca es el evento de difusión del diseño y la tecnología en Salamanca"
-baseurl: "http://design2014.gdgsalamanca.com"
-url: "http://design2014.gdgsalamanca.com"
+description: "Android Day Salamanca"
+baseurl: "http://android2015.gdgsalamanca.com"
+url: "http://android2015.gdgsalamanca.com"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-56142323-2"
-googleAnalyticsSiteUrl: "design2014.gdgsalamanca.com"
+googleAnalyticsTrackingId: "UA-56142323-3"
+googleAnalyticsSiteUrl: "android2015.gdgsalamanca.com"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -24,7 +24,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdgsalamanca.com"
 
 # Head
-metaKeywords: "event, gdg, design&tech, google, design, betabeers, diseño, evento, salamanca, charrosfera, tecnología"
+metaKeywords: "event, gdg, android, google, betabeers, evento, salamanca, charrosfera, tecnología, developers"
 twitterAccount: "@gdgsalamanca"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -51,8 +51,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Design&Tech<typeout> 2014"
-eventDate: "29 Noviembre 2014"
+heroTitle: "Android Day<typeout> 2015"
+eventDate: "14 Marzo 2015"
 typeoutTextValues: '"", " Salamanca"'
 typeoutFallback: "Salamanca"
 heroButtons:
@@ -60,17 +60,17 @@ heroButtons:
  - {permalink: "/#tickets", text: "Regístrate"}
 
 # About Block
-aboutTitle: "Design&Tech Salamanca 2014"
+aboutTitle: "Android Day Salamanca 2015"
 aboutBlock:
- - {title: "¿Por qué?", image: "conference.jpg", text: "Queremos hablar de diseño y tecnología. Queremos promocionar el diseño en Salamanca" }
- - {title: "¿Cómo?", image: "workshop.jpg", text: "Hemos organizado un evento con ponencias de gran calidad, y con un tiempo para networking. Conoce más sobre el diseño y tecnología y busca diseñadores con los que trabajar" }
+ - {title: "¿Por qué?", image: "conference.jpg", text: "" }
+ - {title: "¿Cómo?", image: "workshop.jpg", text: "Hemos organizado un evento con ponencias de gran calidad" }
  - {title: "¿Dónde?", image: "hackathon.jpg", text: "En la Facultad de Ciencias de la Universidad de Salamanca" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "50", specialCharacter: "+", info: "asistentes", detail: "de cualquier lugar"}
- - {count: "4", specialCharacter: "+", info: "horas", detail: "hablando sobre diseño/tecnología y haciendo networking"}
+ - {count: "5", specialCharacter: "+", info: "horas", detail: "hablando sobre Android"}
  - {count: "5", specialCharacter: "", info: "ponentes", detail: "tanto de Salamanca como de otras ciudades"}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
@@ -92,9 +92,9 @@ eventAddressLocality: "Salamanca"
 eventAddressLocalityRegion: "Salamanca"
 eventPostalCode: "37008"
 eventAddressCountry: "España"
-eventStartTime: "2014-11-29T10:00"
+eventStartTime: "2015-03-14T09:00"
 eventDoorTime: "09:30"
-eventEndTime: "2014-10-29T14:00"
+eventEndTime: "2015-03-14T14:00"
 eventPlaceCoordinates: "40.9634385, -5.6692121"
 mapCenterCoordinates: "40.9634385, -5.6692121"
 mapMobileCenterCoordinates: "40.9634385, -5.6692121"
@@ -111,7 +111,7 @@ mapMobileCenterCoordinates: "40.9634385, -5.6692121"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Coméntalo"
-twitterHashTag: "designtechSAL14"
+twitterHashTag: "androidSAL15"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
@@ -135,11 +135,11 @@ ticketsOffers:
   priceCurrency: "EUROS"
   ticketsNumber: "150"
  # ribbon: "-5%"
-  buyButtonLink: "http://goo.gl/forms/2MKg1glG7A"
+  buyButtonLink: "http://goo.gl/forms/B1wC18hpqb"
   buyButtonText: "Regístrate"
   ticketContentList: ["¡Ven al evento!"]
-  validFrom: "2014-10-29T10:00"
-  validThrough: "2014-11-29T23:59"
+  validFrom: "2015-03-01T00:00"
+  validThrough: "2015-03-14T23:59"
 # -
 #  name: "Last Chance"
 #  price: "450"
@@ -150,8 +150,8 @@ ticketsOffers:
 #  buyButtonLink: "http://dfua.ticketforevent.com/"
 #  buyButtonText: "Buy Now"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-10-01T00:00"
-#  validThrough: "2014-10-23T23:59"
+#  validFrom: "2015-03-01T00:00"
+#  validThrough: "2015-03-14T23:59"
 #  disabled: true
 # -
 #  name: "Student"
@@ -162,8 +162,8 @@ ticketsOffers:
 #  buyButtonText: "Buy Now"
 #  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-08-20T10:00"
-#  validThrough: "2014-10-23T23:59"
+#  validFrom: "2015-08-20T10:00"
+#  validThrough: "2015-10-23T23:59"
 #  soldOut: true
 #  soldOutText: "Sold Out"
 
@@ -177,6 +177,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://gdgsalamanca.com", text: "GDG Salamanca"}
+   - {link: "http://techandladies.com", text: "Tech&amp;Ladies"}
    - {link: "http://betabeers.com", text: "Betabeers Salamanca"}
    - {link: "http://charrosfera.com", text: "Charrosfera"}
    - {link: "http://usal.es", text: "Universidad de Salamanca"}

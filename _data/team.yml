@@ -13,17 +13,29 @@
     - {name: "site", link: "http://gdgsalamanca.com/"}
 - 
   id: 1
+  name: "Tech&amp;Ladies"
+  surname: ""
+  title: ""
+  thumbnailUrl: techandladies.png
+  team: true
+  ribbon:
+    - {abbr: "", title: "Tech&amp;Ladies"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/102726532792244093365/about"}
+    - {name: "site", link: "http://techandladies.com/"}
+-
+  id: 2
   name: "Betabeers"
   surname: "Salamanca"
   title: ""
   thumbnailUrl: betabeers-sal.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "", title: "Betabeers Salamanca"}
-  social: 
+  social:
     - {name: "site", link: "http://betabeers.com/community/betabeers-salamanca-22/"}
-- 
-  id: 2
+-
+  id: 3
   name: "Charrosfera"
   surname: ""
   title: ""

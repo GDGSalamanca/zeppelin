@@ -1,46 +1,16 @@
 - 
-  date: "2014-11-29"
-  dateReadable: "Sábado 29"
+  date: "2015-03-14"
+  dateReadable: "Sábado 14"
   tracks: 
     - {title: "Ponencias", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:15",
-    	sessionIds: [309]
-    }
-    - {
-        startTime: "10:15",
-        endTime: "10:45",
-        sessionIds: [001]
-    }
-    - {
-    	startTime: "10:45",
-    	endTime: "11:15",
-    	sessionIds: [005]
-    }
-    - {
-    	startTime: "11:15",
-    	endTime: "11:45",
-    	sessionIds: [003]
-    }
-    - {
-    	startTime: "11:45",
-    	endTime: "12:15",
-    	sessionIds: [307]
-    }
-    - {
-    	startTime: "12:15",
-    	endTime: "12:45",
-    	sessionIds: [002]
-    }
-    - {
-    	startTime: "12:45",
-    	endTime: "13:15",
-    	sessionIds: [004]
-    }
-    - {
-    	startTime: "13:15",
-    	endTime: "14:00",
+    	startTime: "09:00",
+    	endTime: "09:15",
     	sessionIds: [308]
+    }
+    - {
+    	startTime: "11:30",
+    	endTime: "12:00",
+    	sessionIds: [307]
     }

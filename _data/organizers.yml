@@ -4,6 +4,7 @@
     - {name: "Google Developer Group (GDG) Salamanca", description: "GDG Salamanca", link: "http://gdgsalamanca.com", imageUrl: "gdg-salamanca.png"}
 - 
   group: ""
-  elements: 
+  elements:
+    - {name: "Tech&amp;Ladies", description: "Tech&amp;Ladies", link: "http://techandladies.com/", imageUrl: "techandladies.png"}
     - {name: "Betabeers Salamanca", description: "Betabeers Salamanca", link: "https://betabeers.com/community/betabeers-salamanca-22/", imageUrl: "betabeers-sal.png"}
     - {name: "Charrosfera", description: "Charrosfera", link: "http://www.charrosfera.com/", imageUrl: "charrosfera.jpg"}

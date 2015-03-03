@@ -5,53 +5,32 @@
   service: true
 -
   id: 308
-  title: "Networking"
-  place: "Hall de la Facultad"
-  service: true
--
-  id: 309
   title: "Apertura"
-  description: "Presentación de los ponentes y la dinámica del evento por los organizadores"
+  description: "Presentación de los ponentes"
   subtype: presentation
   language: es
   complexity: "Media"
 -
   id: 001
-  title: "Diseño en los medios"
+  title: "Casos de éxito y tendencias en Google Play Store "
   description: ""
   subtype: presentation
-  speakers: [5]
+  speakers: [2]
   language: es
   complexity: "Media"
 -
   id: 002
-  title: "La tipografía, la medida de todo"
-  description: "La decisión más importante en cualquier proyecto es la tipografía, no sólo por los aspectos propios de la comunicación sino también por que es una unidad básica de medida a la hora de construir un interface multidispositivo"
-  subtype: presentation
-  speakers: [4]
-  language: es
-  complexity: "Media"
--
-  id: 003
-  title: "UX: Que no te pillen en bragas"
-  description: ""
-  subtype: presentation
-  speakers: [6]
-  language: es
-  complexity: "Media"
--
-  id: 004
-  title: "Diseño de producto"
+  title: "Testing automatizado en Android"
   description: ""
   subtype: presentation
   speakers: [3]
   language: es
   complexity: "Media"
 -
-  id: 005
-  title: "Diseño, belleza y marca."
+  id: 003
+  title: "Material Design"
   description: ""
   subtype: presentation
-  speakers: [7]
+  speakers: [4]
   language: es
   complexity: "Media"
